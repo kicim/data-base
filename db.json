@@ -1,34 +1,34 @@
-"products": {
-    "smartphones": [
-    {
-        "name": "Xiaomi",
-        "model": "Redmi 9C 3/64",
-        "price": "3900",
-        "currency": "uah",
-        "link": "https://www.foxtrot.com.ua/uk/shop/mobilnye_telefony_xiaomi_redmi-9c-3-64gb-midnight-gray.html?gclid=CjwKCAiAzrWOBhBjEiwAq85QZ8FYPXicLHdTVMhASQ8qQgpzMeiDQAiD1WdLMQPKa8AOR1h3pcmDaRoC2GkQAvD_BwE",
-        "desc": "Произведение исскуства в мире телефонов. Предназначен для использования людьми высшего сорта"
-    },
-    ],
-    "food": [
-    {
-        "name": "teteriv z vishney",
-        "model": "1.2L",
-        "price": "28",
-        "currency": "uah",
-        "link": "https://fozzyshop.ua/ru/pivo-polutemnoe-krasnoe/59655-pivo-teteriv-khmelnaya-vishnya-polutemnoe-4820046962904.html",
-        "desc": "Шикарный напиток настоящих аристократов. Отдаёт спиртом больше чем вишней"
-    },
-    ],
-    "animals": [
-    {
-        "name": "yenot",
-        "model": "poloskun",
-        "price": "20000",
-        "currency": "uah",
-        "link": "https://flagma.ua/products/q=%D0%B5%D0%BD%D0%BE%D1%82+%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D1%83%D0%BD/",
-        "desc": "Енот-полоскун"
-    },
-    ]
+{
+    "products": {
+        "smartphones": [
+        {
+            "name": "Xiaomi",
+            "model": "Redmi 9C 3/64",
+            "price": "3900",
+            "currency": "uah",
+            "link": "https://www.foxtrot.com.ua/uk/shop/mobilnye_telefony_xiaomi_redmi-9c-3-64gb-midnight-gray.html?gclid=CjwKCAiAzrWOBhBjEiwAq85QZ8FYPXicLHdTVMhASQ8qQgpzMeiDQAiD1WdLMQPKa8AOR1h3pcmDaRoC2GkQAvD_BwE",
+            "desc": "Произведение исскуства в мире телефонов. Предназначен для использования людьми высшего сорта"
+        }
+        ],
+        "food": [
+        {
+            "name": "teteriv z vishney",
+            "model": "1.2L",
+            "price": "28",
+            "currency": "uah",
+            "link": "https://fozzyshop.ua/ru/pivo-polutemnoe-krasnoe/59655-pivo-teteriv-khmelnaya-vishnya-polutemnoe-4820046962904.html",
+            "desc": "Шикарный напиток настоящих аристократов. Отдаёт спиртом больше чем вишней"
+        }
+        ],
+        "animals": [
+        {
+            "name": "yenot",
+            "model": "poloskun",
+            "price": "20000",
+            "currency": "uah",
+            "link": "https://flagma.ua/products/q=%D0%B5%D0%BD%D0%BE%D1%82+%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D1%83%D0%BD/",
+            "desc": "Енот-полоскун"
+        }
+        ]
+    }    
 }
-
-
